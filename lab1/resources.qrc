@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/padlock.ico</file>
+        <file>icons/pin-code.png</file>
+        <file>icons/poly.png</file>
+        <file>icons/poly2.png</file>
+    </qresource>
+</RCC>
